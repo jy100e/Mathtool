@@ -9,5 +9,5 @@ def sub(a, b):
 def mul(a, b):
     return a*b
     #곱하기
-def div(a, b):
+def div_pre(a, b):
     return a/b
